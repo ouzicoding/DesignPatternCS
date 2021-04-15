@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{D00E3A6D-7015-4982-ADDE-935A48727206}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatternCS/Program.cs">
     <Files>
-      <File FileName="DesignPatternCS/Program.cs" Line="5" Column="18" />
+      <File FileName="DesignPatternCS/Program.cs" Line="18" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,11 +13,14 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DesignPatternCS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesignPatternCS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

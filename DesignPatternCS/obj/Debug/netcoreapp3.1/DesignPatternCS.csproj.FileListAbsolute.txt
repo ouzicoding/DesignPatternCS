@@ -1,0 +1,12 @@
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/bin/Debug/netcoreapp3.1/DesignPatternCS.deps.json
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/bin/Debug/netcoreapp3.1/DesignPatternCS.runtimeconfig.json
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/bin/Debug/netcoreapp3.1/DesignPatternCS.runtimeconfig.dev.json
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/bin/Debug/netcoreapp3.1/DesignPatternCS.dll
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/bin/Debug/netcoreapp3.1/DesignPatternCS.pdb
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/obj/Debug/netcoreapp3.1/DesignPatternCS.csprojAssemblyReference.cache
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/obj/Debug/netcoreapp3.1/DesignPatternCS.AssemblyInfoInputs.cache
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/obj/Debug/netcoreapp3.1/DesignPatternCS.AssemblyInfo.cs
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/obj/Debug/netcoreapp3.1/DesignPatternCS.csproj.CoreCompileInputs.cache
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/obj/Debug/netcoreapp3.1/DesignPatternCS.dll
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/obj/Debug/netcoreapp3.1/DesignPatternCS.pdb
+/Users/haoou/www/DesignPatternCS/DesignPatternCS/obj/Debug/netcoreapp3.1/DesignPatternCS.genruntimeconfig.cache
