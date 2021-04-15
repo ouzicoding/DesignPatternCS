@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D00E3A6D-7015-4982-ADDE-935A48727206}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatternCS/Program.cs">
+    <Files>
+      <File FileName="DesignPatternCS/Program.cs" Line="5" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatternCS" expanded="True">
+            <Node name="DesignPatternCS" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DesignPatternCS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
